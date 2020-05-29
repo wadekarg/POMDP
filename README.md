@@ -1,7 +1,5 @@
 # POMDP
 POMDP Learning to Navigate with Uncertain Information
-Final Project for Reinforcement learning
-Student Name: Gajanan Wadekar
 
 Project Name: POMDP Learning to Navigate with Uncertain Information
 POMDP are also called as Discrete Marcov Decision Process. So, here the MDP agent/learner does not have the observability. The agent do not have any idea about its location state or its orientation. The difference between POMDP and MDP is, the agent gives the probabilistic observation of what states it might be in instead of giving certain information about the current state. 
